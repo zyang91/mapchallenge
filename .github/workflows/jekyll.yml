@@ -51,6 +51,9 @@ jobs:
 
       - name: Install ImageMagick
         run: sudo apt update && sudo apt install libpng-dev libjpeg-dev libtiff-dev imagemagick
+        
+      - name: Make scripts executable
+        run: chmod +x scripts/resize_thumbnails.sh
 
       - name: Pre-process Assets
         run: scripts/resize_thumbnails.sh
