@@ -25,11 +25,11 @@ Special thanks for the [tutorial](https://walker-data.com/posts/time-aware-isoch
 - **Mapbox Isochrone API** - API service for calculating travel time polygons based on real-time traffic data
 
 **Data Sources:**
-- **Travel Time Data**: [Mapbox Isochrone API](https://docs.mapbox.com/api/navigation/isochrone/) - Real-time and predictive travel time calculations for September 11, 2025 at 12:00 PM and 5:30 PM
+- **Travel Time Data**: [Mapbox Isochrone API](https://docs.mapbox.com/api/navigation/isochrone/) - Real-time and predictive travel time calculations for September 11, 2024 at 12:00 PM and 5:30 PM
 - **Base Map**: Mapbox vector tiles and street network data
 
 **Analysis Parameters:**
 - **Location**: Weitzman School of Design, University of Pennsylvania (210 S 34th St, Philadelphia, PA 19104)
 - **Time Periods**: 12:00 PM (midday) vs. 5:30 PM (evening rush hour)
 - **Travel Times**: 5, 10, and 15-minute isochrones
-- **Date**: September 11, 2025
+- **Date**: September 11, 2024
