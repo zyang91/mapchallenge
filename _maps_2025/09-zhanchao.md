@@ -10,7 +10,7 @@ source: ""
 
 ## Hand-Drawn Map
 
-![Day 9 Binghamton University Hand Drawing Map](/assets/thumbnails/2025/09-zhanchao-analog.png)
+![Day 9 Binghamton University Hand Drawing Map](assets/thumbnails/2025/09-zhanchao-analog.png)
 
 This hand-drawn map accurately represents the spatial layout of Binghamton University's campus, but please forgive my poor hand-drawing skills.
 
@@ -18,7 +18,7 @@ This hand-drawn map accurately represents the spatial layout of Binghamton Unive
 
 For comparison, I also experimented with asking ChatGPT to generate a hand-drawn style map of Binghamton University. While the AI produced an interesting artistic interpretation, the spatial layout is completely inaccurate:
 
-![Day 9 Chatgpt generated](https://raw.githubusercontent.com/zyang91/30-day-map-challenge-2025/main/output/day9-chatgpt-analog.png)
+![Day 9 ChatGPT generated](https://raw.githubusercontent.com/zyang91/30-day-map-challenge-2025/main/output/day9-chatgpt-analog.png)
 
 ### Key Observations:
 
