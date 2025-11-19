@@ -21,5 +21,5 @@ source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/
 - **Geographic Boundaries**: [Natural Earth](https://www.naturalearthdata.com/) - Medium-scale country boundaries accessed via the rnaturalearth package
 - **Projection**: Waterman Butterfly (Peirce quincuncial) projection with custom parameters (lon_0=25, shape=square)
 
-**Reference Map**
+**Reference Map:**
 ![Waterman Butterfly Projection on Wikipedia](https://upload.wikimedia.org/wikipedia/commons/f/f9/Waterman_projection.png)
