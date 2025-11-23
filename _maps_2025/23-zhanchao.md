@@ -2,7 +2,7 @@
 day: 23
 creator: Zhanchao Yang
 title: Creating a Population Density Choropleth Map in R (Tutorial)
-thumbnail: /assets/thumbnails/2025/23-zhanchao-process
+thumbnail: /assets/thumbnails/2025/23-zhanchao-process.png
 source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/day23-process.Rmd"
 ---
 
