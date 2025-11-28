@@ -24,5 +24,5 @@ source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/
 **Time Zones Featured:**
 - **Pacific** - America/Los_Angeles
 - **Mountain** - America/Denver, America/Boise, America/Phoenix
-- **Central** - America/Chicago, America/Menominee, and North Dakota/Indiana zones
-- **Eastern** - America/New_York, America/Detroit, and Indiana/Kentucky zones
+- **Central** - America/Chicago, America/Menominee, America/North_Dakota/Center, America/North_Dakota/New_Salem, America/North_Dakota/Beulah, America/Indiana/Knox, America/Indiana/Tell_City
+- **Eastern** - America/New_York, America/Detroit, America/Indiana/Indianapolis, America/Indiana/Vincennes, America/Indiana/Winamac, America/Indiana/Marengo, America/Indiana/Petersburg, America/Indiana/Vevay, America/Kentucky/Louisville, America/Kentucky/Monticello
