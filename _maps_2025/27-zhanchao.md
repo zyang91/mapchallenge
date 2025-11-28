@@ -20,9 +20,3 @@ source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/
 **Data Sources:**
 - **Time Zone Polygons**: [MazamaSpatialUtils SimpleTimezones Dataset](https://mazamascience.github.io/MazamaSpatialUtils/) - Built-in world time zone polygons filtered to United States boundaries and collapsed into four major time zones
 - **State Boundaries**: [Natural Earth Data](https://www.naturalearthdata.com/) - US state boundaries accessed via the rnaturalearth package for overlay visualization
-
-**Time Zones Featured:**
-- **Pacific** - America/Los_Angeles
-- **Mountain** - America/Denver, America/Boise, America/Phoenix
-- **Central** - America/Chicago, America/Menominee, America/North_Dakota/Center, America/North_Dakota/New_Salem, America/North_Dakota/Beulah, America/Indiana/Knox, America/Indiana/Tell_City
-- **Eastern** - America/New_York, America/Detroit, America/Indiana/Indianapolis, America/Indiana/Vincennes, America/Indiana/Winamac, America/Indiana/Marengo, America/Indiana/Petersburg, America/Indiana/Vevay, America/Kentucky/Louisville, America/Kentucky/Monticello
