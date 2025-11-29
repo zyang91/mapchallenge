@@ -1,14 +1,14 @@
 ---
 day: 28
 creator: Zhanchao Yang
-title: "Nighttime Lights (Canada): October 2021"
+title: "Nighttime Lights (Canada): February 5, 2021"
 thumbnail: /assets/thumbnails/2025/28-zhanchao-black.png
 source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/day28-black.R"
 ---
 
 **Day 28 (Black)**: I created a nighttime lights visualization of Canada using NASA's Black Marble VIIRS/Suomi NPP data. This visualization captures the luminous footprint of human activity across the country on February 5, 2021, with the black background emphasizing the stark contrast between illuminated urban areas and the vast dark expanses of the Canadian wilderness. The color gradient transitions from black in unlit regions through yellow for moderate light intensity to red for the brightest urban centers, with a logarithmic transformation applied to handle the skewed distribution of nighttime radiance values. Major population centers along the US-Canada border—including Toronto, Montreal, Vancouver, and Calgary—stand out prominently against the predominantly dark northern territories. At the same time, I learned about a new package called `blackmarbler`. 
 
-![Day 28 Nighttime Lights (Canada): October 2021](assets/thumbnails/2025/28-zhanchao-black.png)
+![Day 28 Nighttime Lights (Canada): February 5, 2021](assets/thumbnails/2025/28-zhanchao-black.png)
 
 **Technical Implementation:**
 - **blackmarbler** - R package for downloading and processing NASA's Black Marble nighttime lights data products (VIIRS/Suomi NPP), providing access to high-quality nighttime radiance imagery
