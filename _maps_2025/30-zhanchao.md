@@ -21,7 +21,7 @@ source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/
 
 ### 2. Color Palette Enhancement
 - **Previous**: Custom flat reds palette with manual quantile breaks
-- **improved**: The `scico` package provides perceptually uniform and scientifically accurate color palettes, colorblind-friendly, and print well in grayscale.
+- **Improved**: The `scico` package provides perceptually uniform and scientifically accurate color palettes, colorblind-friendly, and print well in grayscale.
 
 ### 3. Classification Method (Quantiles → Continuous Scale)
 - **Previous**: Discrete quantile-based classification that groups states into five equal-count bins
