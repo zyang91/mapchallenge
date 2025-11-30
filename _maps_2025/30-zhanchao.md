@@ -11,6 +11,7 @@ source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/
 ### Before
 ![Day 30 Map Before changing](https://raw.githubusercontent.com/zyang91/30-day-map-challenge-2025/main/data/day30/previous-challenge.png)
 
+### After
 ![Day 30 Map After changing](assets/thumbnails/2025/30-zhanchao-makeover.png)
 
 ## Key Improvements
