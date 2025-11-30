@@ -6,7 +6,7 @@ thumbnail: /assets/thumbnails/2025/30-zhanchao-makeover.png
 source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/day30-makeover.R"
 ---
 
-**Day 30 (Makeover)**: For the final day of the 30 Day Map Challenge 2025, I revisited and improved a map I co-created with Xian Lu Lee (MUSA'24) during the 2024 30DayMapChallenge. The original hexagon map visualized child traffic fatality rates at the state level across the United States, using data from the National Highway Traffic Safety Administration (NHTSA) and the Department of Transportation. This makeover focuses on enhancing the visual communication, statistical accuracy, and overall design quality of the visualization. This map improvement utilizes help from Gemini3 (LLM).
+**Day 30 (Makeover)**: For the final day of the 30 Day Map Challenge 2025, I revisited and improved a map I co-created with Xian Lu Lee (MUSA'24) during the 2024 30DayMapChallenge. The original hexagon map visualized child traffic fatality rates at the state level across the United States, using data from the National Highway Traffic Safety Administration (NHTSA) and the Department of Transportation. This makeover focuses on enhancing the visual communication, statistical accuracy, and overall design quality of the visualization. This map improvement was created with assistance from Gemini 3 (LLM).
 
 ### Before
 ![Day 30 Map Before changing](https://raw.githubusercontent.com/zyang91/30-day-map-challenge-2025/main/data/day30/previous-challenge.png)
