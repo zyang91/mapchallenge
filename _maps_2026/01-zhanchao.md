@@ -15,4 +15,4 @@ source: https://github.com/zyang91/30-day-map-challenge-2026/blob/main/day_1/day
 - **Data**: personal TripLibre travel diary export (visits & places). The raw data stays private, and home is omitted from the map.
 - **Basemap**: streets, parks, hydrology and city limits from the City of Philadelphia via [OpenDataPhilly](https://opendataphilly.org/)
 
-![My Philadelphia was two miles wide: proportional circle map of 97 stops around Penn and Center City, with a bar chart of hours spent at the top eight places](/assets/thumbnails/2026/01-zhanchao-point.png)
+![My Philadelphia was two miles wide: proportional circle map of 97 stops around Penn and Center City, with a bar chart of hours spent at the top eight places](assets/thumbnails/2026/01-zhanchao-point.png)
