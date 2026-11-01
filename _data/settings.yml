@@ -2,6 +2,37 @@ logo: '/assets/img/musa-logo.png'
 description: The collaborative 30-Days of Maps Challenge entries from the MUSA program
 author: Masters of Urban Spatial Analytics
 day_categories:
+  '2026':
+    '1': 'Points'
+    '2': 'Lines'
+    '3': 'Polygons'
+    '4': 'Clusters'
+    '5': 'Senses: Sight'
+    '6': 'Vintage'
+    '7': '10 minute map'
+    '8': 'Utopia'
+    '9': 'Urban-rural'
+    '10': 'Prompting only'
+    '11': 'Senses: Sound'
+    '12': 'Power'
+    '13': 'Interactions'
+    '14': 'Borgesian map'
+    '15': 'Inside out'
+    '16': 'Collaborative map'
+    '17': 'Light & dark'
+    '18': 'NULL'
+    '19': 'Senses: Smell'
+    '20': 'Hexagons'
+    '21': 'OpenStreetMap'
+    '22': 'Projections'
+    '23': 'Senses: Taste'
+    '24': 'Network'
+    '25': 'Is this a map?'
+    '26': 'Water'
+    '27': 'New tool'
+    '28': 'Senses: Feeling'
+    '29': 'Raster'
+    '30': 'Pen & paper'
   '2025':
     '1': Points
     '2': Lines
@@ -20,16 +51,78 @@ day_categories:
     '15': Fire
     '16': Cell
     '17': A new tool
-    '18': Out of world
+    '18': Out of this world
     '19': Projections
     '20': Water
     '21': Icons
     '22': Natural Earth
     '23': Process
-    '24': Places & names
+    '24': Places and their names
     '25': Hexagons
     '26': Transport
     '27': Boundaries
     '28': Black
     '29': Raster
     '30': Makeover
+  '2024':
+    '1': Points
+    '2': Lines
+    '3': Polygons
+    '4': Hexagons
+    '5': A journey
+    '6': Raster
+    '7': Vintage style
+    '8': HDX
+    '9': AI only
+    '10': Pen & paper
+    '11': Arctic
+    '12': Time and space
+    '13': A new tool
+    '14': A world map
+    '15': My data
+    '16': Choropleth
+    '17': Collaborative
+    '18': 3D
+    '19': Typography
+    '20': OSM
+    '21': Conflict
+    '22': 2 Colors
+    '23': Memory
+    '24': Circular shapes
+    '25': Heat
+    '26': Map projections
+    '27': Micromapping
+    '28': The blue planet
+    '29': Overture
+    '30': The final map
+  '2023':
+    '1': Points
+    '2': Lines
+    '3': Polygons
+    '4': A bad map
+    '5': Analog map
+    '6': Asia
+    '7': Navigation
+    '8': Africa
+    '9': Hexagons
+    '10': North America
+    '11': Retro
+    '12': South America
+    '13': Choropleth
+    '14': Europe
+    '15': OpenStreetMap
+    '16': Oceania
+    '17': Flow
+    '18': Atmosphere
+    '19': 5-minute map
+    '20': Outdoors
+    '21': Raster
+    '22': North is not always up
+    '23': 3D
+    '24': Black & white
+    '25': Antarctica
+    '26': Minimal
+    '27': Dot
+    '28': Is this a chart or a map?
+    '29': Population
+    '30': '"My favorite..."'
