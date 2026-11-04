@@ -9,7 +9,7 @@ Zhanchao Yang
 
 ## About the 30 Day Map Challenge
 
-The [30 Day Map Challenge](https://30daymapchallenge.com/) is a daily mapping and cartography challenge aimed at the spatial community. Every day in November, participants create maps based on different themes. This challenge is a great way to experiment with new tools, techniques, and data sources while improving your cartographic skills.
+The [30DayMapChallenge](https://30daymapchallenge.com/) is a daily mapping and cartography challenge aimed at the spatial community. Every day in November, participants create maps based on different themes. This challenge is a great way to experiment with new tools, techniques, and data sources while improving your cartographic skills.
 
 ## Acknowledgements
 
